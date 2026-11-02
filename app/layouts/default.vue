@@ -12,7 +12,7 @@
         </main>
 
         <footer>
-            <!--L -->
+            Håkon 2026
         </footer>
     </div>
 </template>
